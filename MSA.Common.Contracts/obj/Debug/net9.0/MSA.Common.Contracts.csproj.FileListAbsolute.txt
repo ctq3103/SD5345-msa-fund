@@ -1,0 +1,12 @@
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\bin\Debug\net9.0\MSA.Common.Contracts.deps.json
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\bin\Debug\net9.0\MSA.Common.Contracts.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\bin\Debug\net9.0\MSA.Common.Contracts.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\MSA.Common.Contracts.csproj.AssemblyReference.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\MSA.Common.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\MSA.Common.Contracts.AssemblyInfoInputs.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\MSA.Common.Contracts.AssemblyInfo.cs
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\MSA.Common.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\MSA.Common.Contracts.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\refint\MSA.Common.Contracts.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\MSA.Common.Contracts.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Contracts\obj\Debug\net9.0\ref\MSA.Common.Contracts.dll

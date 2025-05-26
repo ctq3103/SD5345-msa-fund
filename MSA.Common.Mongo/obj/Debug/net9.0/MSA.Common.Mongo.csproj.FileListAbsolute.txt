@@ -1,0 +1,15 @@
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\bin\Debug\net9.0\MSA.Common.Mongo.deps.json
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\bin\Debug\net9.0\MSA.Common.Mongo.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\bin\Debug\net9.0\MSA.Common.Mongo.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\bin\Debug\net9.0\MSA.Common.Contracts.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\bin\Debug\net9.0\MSA.Common.Contracts.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\MSA.Common.Mongo.csproj.AssemblyReference.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\MSA.Common.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\MSA.Common.Mongo.AssemblyInfoInputs.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\MSA.Common.Mongo.AssemblyInfo.cs
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\MSA.Common.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\MSA.Comm.6EFABD65.Up2Date
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\MSA.Common.Mongo.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\refint\MSA.Common.Mongo.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\MSA.Common.Mongo.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Mongo\obj\Debug\net9.0\ref\MSA.Common.Mongo.dll

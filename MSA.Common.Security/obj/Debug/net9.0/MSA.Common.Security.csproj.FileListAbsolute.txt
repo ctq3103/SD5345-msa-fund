@@ -1,0 +1,15 @@
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\bin\Debug\net9.0\MSA.Common.Security.deps.json
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\bin\Debug\net9.0\MSA.Common.Security.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\bin\Debug\net9.0\MSA.Common.Security.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\bin\Debug\net9.0\MSA.Common.Contracts.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\bin\Debug\net9.0\MSA.Common.Contracts.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\MSA.Common.Security.csproj.AssemblyReference.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\MSA.Common.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\MSA.Common.Security.AssemblyInfoInputs.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\MSA.Common.Security.AssemblyInfo.cs
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\MSA.Common.Security.csproj.CoreCompileInputs.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\MSA.Comm.F723219D.Up2Date
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\MSA.Common.Security.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\refint\MSA.Common.Security.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\MSA.Common.Security.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.Security\obj\Debug\net9.0\ref\MSA.Common.Security.dll

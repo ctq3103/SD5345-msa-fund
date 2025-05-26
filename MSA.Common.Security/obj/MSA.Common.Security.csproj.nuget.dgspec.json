@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Security\\MSA.Common.Security.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Contracts\\MSA.Common.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Contracts\\MSA.Common.Contracts.csproj",
+        "projectName": "MSA.Common.Contracts",
+        "projectPath": "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Contracts\\MSA.Common.Contracts.csproj",
+        "packagesPath": "C:\\Users\\quynh.chuthuy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\quynh.chuthuy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.106/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Security\\MSA.Common.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Security\\MSA.Common.Security.csproj",
+        "projectName": "MSA.Common.Security",
+        "projectPath": "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Security\\MSA.Common.Security.csproj",
+        "packagesPath": "C:\\Users\\quynh.chuthuy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Security\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\quynh.chuthuy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Contracts\\MSA.Common.Contracts.csproj": {
+                "projectPath": "C:\\Users\\quynh.chuthuy\\Downloads\\msa-fund-assignment\\MSA.Common.Contracts\\MSA.Common.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.106/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

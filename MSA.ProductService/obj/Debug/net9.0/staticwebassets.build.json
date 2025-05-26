@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "24e+GF5ECsXyGueUEeQhUzhCHx213ZyruJ2tdF1fkSU=",
+  "Source": "MSA.ProductService",
+  "BasePath": "_content/MSA.ProductService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Cc10khkliRaeQppRzD/sEo1cVJjzRPBFkmiGhzXiZis=",
+  "Source": "MSA.OrderService",
+  "BasePath": "_content/MSA.OrderService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

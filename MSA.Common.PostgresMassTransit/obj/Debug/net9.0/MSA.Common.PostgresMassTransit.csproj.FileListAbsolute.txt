@@ -1,0 +1,17 @@
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Common.PostgresMassTransit.csproj.AssemblyReference.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Common.PostgresMassTransit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Common.PostgresMassTransit.AssemblyInfoInputs.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Common.PostgresMassTransit.AssemblyInfo.cs
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Common.PostgresMassTransit.csproj.CoreCompileInputs.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\bin\Debug\net9.0\MSA.Common.PostgresMassTransit.deps.json
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\bin\Debug\net9.0\MSA.Common.PostgresMassTransit.runtimeconfig.json
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\bin\Debug\net9.0\MSA.Common.PostgresMassTransit.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\bin\Debug\net9.0\MSA.Common.PostgresMassTransit.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\bin\Debug\net9.0\MSA.Common.Contracts.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\bin\Debug\net9.0\MSA.Common.Contracts.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Comm.C5F38FBC.Up2Date
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Common.PostgresMassTransit.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\refint\MSA.Common.PostgresMassTransit.dll
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Common.PostgresMassTransit.pdb
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\MSA.Common.PostgresMassTransit.genruntimeconfig.cache
+C:\Users\quynh.chuthuy\Downloads\msa-fund-assignment\MSA.Common.PostgresMassTransit\obj\Debug\net9.0\ref\MSA.Common.PostgresMassTransit.dll
